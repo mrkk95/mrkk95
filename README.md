@@ -2,6 +2,7 @@
 </br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkk95&hide=javascript&show_icons=true&theme=dracula">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrkk95&show_icons=true&theme=dark&line_height=27">
 </hr>
 - 📫 How to reach me: ...
     <a href="https://github.com/mrkk95">Github</a>
