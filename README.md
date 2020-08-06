@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Keyur Khunadiya
 </br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkk95&hide=javascript&show_icons=true&theme=dracula">
 </hr>
 - 📫 How to reach me: ...
     <a href="https://github.com/mrkk95">Github</a>
